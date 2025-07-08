@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, C++, Unity, Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [https://www.jakobkiryo.com/](https://www.jakobkiryo.com/)
+- 👨‍💻 All of my projects are available at https://jakobkiryo.wixsite.com/my-site
 
 - 📫 How to reach me **Jakobkiryo@hotmail.com**
 
